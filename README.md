@@ -1,3 +1,11 @@
+			                     _            
+    _                           | |        __    __    _    ____
+   / \   ___   ___  __ _ ____  _| | __ _  |  \  /  |  / \  / ___|
+  / △ \ |  _\ /_  |/ _’ \  _ \/ _ |/ _` | | \ \/ / | / △ \| /
+ / ___ \| | | | | | (_| | | |( (_|( (_| | | |\/_/| |/ ___ | \___
+/_/   \_\_, |_, |_,\__,_|_, |_\_,_|\__,_| |_|    |_/_/   \_\____| 
+                    
+
 # OverwatchHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3. I is a test project to help me learn Angular 4. Characters used are from Overwatch.
